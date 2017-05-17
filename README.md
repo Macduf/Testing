@@ -1,2 +1,3 @@
 # Testing
-just a test
+
+angular 2 is cool and so is ionic 2 
